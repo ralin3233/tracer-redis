@@ -28,6 +28,3 @@ write_value       0.01ms (size=3)
 response_send     0.01ms
 ```
 
-## Setup & Roadmap
-
-See [開發計畫.md](./planing/開發計畫.md) for detailed implementation milestones.
